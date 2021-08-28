@@ -1,4 +1,4 @@
--- ui lib
+-- This UI-Library is LICENSED, You cannot claim it.
 local Library = {}
 
 function Library:GetColor(color, table)
